@@ -1,1 +1,1 @@
-# linux-process-synchronization
+# Linux Process Synchronization and Communication
