@@ -30,7 +30,7 @@ After you have successfully built the software, execute it using the following c
 ./cs [directory] [number of files] [number of transactions] [lambda]
 ```
 
-For example, to execute the software using the directory with the dummy sample text files provided in this repository with 10 text files, 10 transactions between the client and the server and with 0.1 as the value of lambda, use the following command:
+For example, to execute the software using the [directory with the dummy sample text files](/files) provided in this repository with 10 text files, 10 transactions between the client and the server and with 0.1 as the value of lambda, use the following command:
 ```bash
 ./cs ../files/ 10 10 0.1
 ```
