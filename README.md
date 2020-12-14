@@ -17,6 +17,8 @@ After a pre-defined number of transactions, both C and S terminate.
 
 The messages are exchanged using a Shared Memory Segment and the process synchronization is achieved using Semaphores.
 
+![Model Overview](/figure.png)
+
 ## Execution
 In order to execute the software, use a Terminal Emulator and navigate to the src directory.
 
